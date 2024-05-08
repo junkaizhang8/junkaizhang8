@@ -3,9 +3,7 @@
 ## About Me
 - 🏫 I’m a third-year Computer Science student studying at University of Toronto Scarborough
 - 🌱 I’m passionate about software engineering and game development
-- 🧳 I’m currently seeking for an internship opportunity for Summer 2024
 - 📫 How to reach me: jkai.zhang@mail.utoronto.ca
-- ⚡ Fun fact: I equally love dogs and cats
 
 ## Languages and Tools
 <div>
