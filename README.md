@@ -1,9 +1,10 @@
 # Hi there, 👋 I am Jun Kai!
 
 ## About Me
-- 🏫 I’m a third-year Computer Science student studying at the University of Toronto Scarborough
-- 🌱 I’m passionate about software engineering, full-stack development, and game development
+- 🏫 I’m a 4th-year Computer Science student studying at the University of Toronto Scarborough
+- 🌱 I’m passionate about software engineering, full-stack development, web development, and game development
 - 📫 How to reach me: jkai.zhang@mail.utoronto.ca
+- 🌐 My portfolio website: https://www.junkaizhang.ca
 
 ## Languages and Tools
 <div>
