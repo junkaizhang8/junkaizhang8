@@ -1,9 +1,9 @@
-# Hi there, 👋 I am Jun Kai!
+# Hi there 👋
 
 ## About Me
-- 🏫 I’m a 4th-year Computer Science student studying at the University of Toronto Scarborough
-- 🌱 I’m passionate about software engineering, full-stack development, web development, and game development
-- 📫 How to reach me: jkai.zhang@mail.utoronto.ca
+- 🏫 Recent Computer Science graduate from the University of Toronto
+- 🌱 Passionate about software engineering, full-stack development, web development, and game development
+- 📫 How to reach me: junkaizhang8@gmail.com
 - 🌐 My portfolio website: https://www.junkaizhang.ca
 
 ## Languages and Tools
